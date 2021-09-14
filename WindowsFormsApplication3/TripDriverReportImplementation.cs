@@ -5,7 +5,7 @@ using System.Text;
 
 namespace WindowsFormsApplication3
 {
-    class DriverTripReportImplementation :IDriverTripReport
+   public class DriverTripReportImplementation :IDriverTripReport
     {
         
         private List<string> _tripdetails;

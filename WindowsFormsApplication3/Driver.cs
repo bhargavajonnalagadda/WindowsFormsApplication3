@@ -5,7 +5,7 @@ using System.Text;
 
 namespace WindowsFormsApplication3
 {
-    class Driver : IDriver
+    public class Driver : IDriver
     {
         private Int64 _id;
         private string name;

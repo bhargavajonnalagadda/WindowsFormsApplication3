@@ -5,7 +5,7 @@ using System.Text;
 
 namespace WindowsFormsApplication3
 {
-    class Trip:ITrip
+    public class Trip:ITrip
     {
         private Driver tripDriver;
         private TimeSpan starttimeoftrip;

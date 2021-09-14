@@ -5,7 +5,7 @@ using System.Text;
 
 namespace WindowsFormsApplication3
 {
-    class UtilObjectCreator
+    public class UtilObjectCreator
     {
         private static void createDriverObject(string name)
         {

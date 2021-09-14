@@ -14,7 +14,7 @@ namespace WindowsFormsApplication3
             name = connectionstring;
         }
 
-        public void MakeConnection(string name)
+        public void GetConnection(string name)
         {
             //open sql connection 
         }

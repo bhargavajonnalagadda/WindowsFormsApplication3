@@ -7,6 +7,6 @@ namespace WindowsFormsApplication3
 {
     public interface IPersistanceConfig
     {
-        void MakeConnection(string name);
+        void GetConnection(string name);
     }
 }
